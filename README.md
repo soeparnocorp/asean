@@ -1,4 +1,4 @@
-# ASEAN Multiplayer App
+# ASEAN
 
 ![Multiplayer Globe Template Preview](https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/43100bd9-8e11-4c20-cc00-3bec86253f00/public)
 
